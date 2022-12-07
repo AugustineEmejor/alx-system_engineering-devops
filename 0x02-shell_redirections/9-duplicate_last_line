@@ -1,0 +1,2 @@
+#!/bin/bash
+tali -line=1 iacta >> iacta
